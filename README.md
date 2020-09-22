@@ -1,7 +1,9 @@
 # EOBED_DSPG_Dashboard
 Repository for DSPG summer 2020.
 
+Link to Github page : https://eobed-dspg.github.io/
 
+# Local Installation Instructions
 Download R 4.0.2 or later using CRAN distribution.
 ex. http://lib.stat.cmu.edu/R/CRAN/
 
